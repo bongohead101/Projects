@@ -1,4 +1,5 @@
 Contains work from: 	(zipped to avoid others searching code)
+
 Computer Architecture COSC-4315 with Kevin B Long
 Data Mining COSC-4335 with Christoph F Eick
 Software Design COSC-4353 with Mohammad Amin Alipour
