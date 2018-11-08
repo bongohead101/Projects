@@ -1,0 +1,489 @@
+Petroleum Engineering	94600 	175500 
+Actuarial Mathematics	56400 	131700 
+Actuarial Science	61200 	130800 
+Nuclear Engineering	69000 	127500 
+Chemical Engineering	70300 	124500 
+Marine Engineering	73900 	123200 
+Economics and Mathematics	60000 	122900 
+Geophysics	54100 	122200 
+Cognitive Science	54000 	121900 
+Electrical Power Engineering	68600 	119100 
+Aeronautical Engineering	65300 	118800 
+Electrical & Computer Engineering (ECE)	69000 	118800 
+Computer Systems Engineering	72000 	118000 
+Bioengineering	61600 	116800 
+Computer Science & Engineering	70900 	116800 
+Computer Engineering	70300 	116000 
+Electrical Engineering	67800 	114800 
+Computer Science & Mathematics	62800 	114400 
+Industrial & Systems Engineering	65700 	114400 
+Naval Architecture & Marine Engineering	68200 	113800 
+Aerospace Engineering	66300 	113300 
+Applied Mathematics	57600 	113200 
+Mechanical & Aeronautical Engineering	62900 	113200 
+Engineering Physics	60400 	112600 
+International Business & Finance	54600 	112200 
+Industrial Distribution	57400 	112000 
+Engineering	63100 	111600 
+Computer & Information Science	56200 	111300 
+Computer Science	65900 	110100 
+Public Accounting	57500 	110000 
+Mining Engineering	71300 	108500 
+Physics	58000 	108000 
+Physician Assistant Studies	87800 	107600 
+Electrical & Electronics Engineering (EEE)	66200 	107400 
+Physics & Mathematics	56900 	107200 
+Industrial Engineering	64400 	107100 
+Government	49400 	107000 
+Mechanical Engineering	64000 	106800 
+Japanese Language	46200 	106100 
+Business & Information Technology (IT)	58700 	105300 
+Metallurgical Engineering	75300 	105100 
+Structural Engineering	60800 	105100 
+Accounting & Computer Systems	60400 	104900 
+Business & Economics	53900 	104900 
+Industrial Engineering & Management	59400 	104600 
+Statistics	60000 	104600 
+Operations Management & Information Systems	60100 	104500 
+Electronics Engineering	63300 	104300 
+Software Engineering	66300 	104300 
+Materials Science & Engineering	66300 	104100 
+Mathematics & Statistics	54600 	104000 
+Construction Engineering Management	60500 	103700 
+Finance & Investments	55200 	103600 
+Biomedical Engineering	62900 	103500 
+Computer Technology	52400 	103300 
+Finance & Economics	56600 	103300 
+Economics	54100 	103200 
+Aeronautical Science	46600 	103100 
+Construction Science	60700 	102600 
+Applied Physics	56900 	102500 
+Packaging Science	61400 	102300 
+Computer Engineering Technology	57700 	101600 
+Engineering Management	61500 	101600 
+Mechanical	62800 	101600 
+Management Information Systems	57900 	101300 
+Business Computer Information Systems	51700 	100800 
+Industrial & Labor Relations	57800 	100200 
+Business Finance	52300 	100100 
+Facilities Management	55100 	99900 
+Industrial Management	52600 	99200 
+Genetics	43000 	99000 
+Mathematics	54200 	99000 
+Sales & Business Marketing	50900 	98900 
+Construction Project Management	53400 	98700 
+Civil Engineering	57700 	98500 
+Construction Management	56800 	97600 
+Economics & Political Science	50600 	97200 
+Marketing & International Business	46600 	97200 
+Finance & Real Estate	57500 	97100 
+Plastics Engineering	64100 	97100 
+Business Economics	51800 	97000 
+Information Systems	55800 	96900 
+Computing	53400 	96800 
+Building Construction	57900 	96600 
+Environmental Health & Safety Management	54700 	96500 
+Management Science	56600 	96500 
+Manufacturing Engineering	61900 	96400 
+International Business Management	49400 	96300 
+Civil & Environmental Engineering	58400 	96200 
+Environmental Engineering	55300 	96000 
+Fire Protection Engineering	58800 	95300 
+Informatics	60500 	95300 
+Information Systems Management	55300 	95200 
+Architectural Engineering	61200 	95100 
+East Asian Studies	42300 	95100 
+Plastics Engineering Technology	61600 	95100 
+Agricultural Engineering	56100 	94400 
+Real Estate	54400 	94100 
+Construction Engineering	61100 	93700 
+Electrical Engineering Technology (EET)	60400 	93400 
+Finance	53300 	93200 
+International Business	48500 	93200 
+Computer Information Systems	53500 	93000 
+Organizational Behavior	50900 	93000 
+Hotel Administration	55300 	92700 
+Computer Information Systems	48900 	92600 
+Business Information Systems	55000 	92400 
+Operations & Supply Chain Management	53900 	92400 
+Operations Management	54600 	92300 
+Information Technology Management	53800 	91900 
+Environmental Health & Safety	51900 	91800 
+Telecommunications Management	48000 	91800 
+Agricultural Economics & Business	48200 	91500 
+Business & Finance	48800 	91100 
+Meteorology	42600 	91100 
+Molecular Biology	47600 	91000 
+Information Security	60400 	90900 
+Occupational Health and Safety	52500 	90800 
+Cybersecurity	56900 	90700 
+Geological Engineering	56100 	90600 
+Corporate Finance	59700 	90500 
+Accounting & Auditing	52700 	90400 
+Building Construction Management	52200 	90400 
+Information Technology (IT) & Systems	52500 	90100 
+Mechanical Engineering Technology (MET)	58000 	90000 
+Physical Therapy	42800 	89700 
+Food Science	47800 	89500 
+Information Science	58100 	89300 
+Accounting & Finance	52600 	89000 
+Applied Computer Science	53100 	88800 
+Business & Marketing	45700 	88800 
+Chemistry	45700 	88000 
+Aviation Management	43900 	87900 
+German Language	43900 	87700 
+Biochemistry	44500 	87600 
+Industrial Engineering Technology	58400 	87600 
+Finance & Banking	51400 	87400 
+Logistics & Supply Chain Management	52500 	87400 
+Industrial Design (ID)	49000 	87200 
+Electronics Engineering Technology (EET)	58700 	87100 
+Food Science & Technology	46900 	87100 
+Risk Management & Insurance	53600 	87100 
+Engineering Technology (ET)	52600 	86700 
+Industrial Technology (IT)	54600 	86600 
+French Literature	41200 	86500 
+Public Policy Analysis	48700 	86500 
+Agribusiness	45700 	86400 
+Product Design	50600 	86400 
+Information Technology	52300 	86300 
+Marketing & Management	44900 	86300 
+Technical Communication	43900 	86200 
+International Relations	46400 	86100 
+Russian Language	48700 	85700 
+Sales & Marketing	47300 	85600 
+Business Communication	43900 	85500 
+Manufacturing Engineering Technology	58700 	85200 
+Occupational Therapy	53500 	85100 
+Philosophy	44800 	85100 
+Aviation	50700 	84900 
+Marketing	45200 	84900 
+Networks & Telecommunications	46100 	84600 
+Advertising	41800 	84200 
+Radiation Therapy	61800 	84200 
+Business Management & Marketing	44000 	84000 
+Transportation & Logistics Management	49100 	84000 
+Marketing & Communications	43300 	83900 
+Geology	45400 	83800 
+Civil Engineering Technology	51300 	83700 
+Classics	42000 	83700 
+European History	45700 	83700 
+Marketing Management	45700 	83700 
+Telecommunications	41500 	83700 
+History & Politics	42800 	83600 
+Insurance	47300 	83500 
+Marketing Communication	40800 	83500 
+Architecture	45200 	83100 
+Accounting	48400 	82800 
+Biotechnology	46100 	82500 
+Comparative Literature	43800 	82400 
+Entrepreneurship	48000 	82400 
+Film Studies	40200 	82400 
+Hotel Management	44200 	82400 
+Latin American Studies	43100 	82400 
+Safety Management	52900 	82400 
+Financial Management	48100 	82300 
+Biological Sciences	42900 	82100 
+Cinema Studies	41400 	82000 
+Political Science	44600 	82000 
+Organizational Psychology	45000 	81800 
+Microbiology	42900 	81400 
+Aeronautics	47200 	81300 
+Fashion Design	42400 	81300 
+Advertising & Marketing Communications	42800 	81200 
+Math & Science	49500 	81100 
+Retail Merchandising	42300 	81000 
+Philosophy & Religion	40200 	80900 
+Human Biology	43200 	80700 
+Textile & Apparel Studies	41400 	80600 
+Textile Design	42700 	80500 
+Project Management	51300 	80300 
+American Studies	43900 	79900 
+Retail & Consumer Science	46000 	79800 
+Environmental Design	42300 	79600 
+Aviation Maintenance Technology	45400 	79500 
+Pre-law	42500 	79100 
+Biomedical Sciences	41000 	79000 
+Cell & Molecular Biology	43200 	78800 
+Business Marketing	45700 	78700 
+Urban & Regional Planning	44000 	78700 
+Biology & Chemistry	42200 	78600 
+Industrial Psychology	43000 	78500 
+Environmental Science	43800 	78400 
+Marketing & Mass Communications	41600 	78100 
+Construction Engineering Technology	51600 	78000 
+Magazine Journalism	40900 	77800 
+General Business	45200 	77700 
+Geosciences	45600 	77500 
+Advertising & Marketing	44400 	77400 
+Aviation Technology	47800 	77400 
+Foreign Languages	43900 	77400 
+Design	44700 	77300 
+Organizational Development	49100 	77200 
+Computer & Network Administration	52000 	76900 
+Agribusiness Management	45100 	76800 
+Business Administration	46300 	76800 
+Agronomy	46200 	76700 
+Technical Management	47700 	76600 
+Business Management & Human Resources Management (HRM)	42200 	76500 
+Management	45400 	76500 
+Nursing Science	59700 	76400 
+English Literature	41400 	76300 
+Nursing	58200 	76300 
+Business Management	46100 	76200 
+Spanish Literature	46000 	76100 
+Accounting & Management	49900 	76000 
+Marine Biology	37200 	76000 
+Natural Resources	41600 	75900 
+Retail Management	44100 	75900 
+History	42200 	75700 
+Logistics	51700 	75300 
+Computer Graphics Technology	42500 	75200 
+General Science	41600 	75200 
+Biology	41200 	75100 
+Bachelor in Science Nursing	57900 	74900 
+Theatre & Drama Studies	41300 	74800 
+Agriculture	41900 	74700 
+French Language	43200 	74700 
+Urban Studies	44100 	74700 
+Communication	42200 	74600 
+Pre-Medicine	43800 	74600 
+Logistics Management	50800 	74500 
+Accounting & Business	46600 	74300 
+Business Administration & Accounting	46200 	74300 
+Environmental Studies	41600 	74300 
+Nutrition Science	43400 	74300 
+Computer Animation	40700 	74200 
+Broadcast & Cinematic Arts	38600 	74100 
+Diagnostic Medical Sonography	58100 	73800 
+Journalism & Mass Communication	41300 	73700 
+Public Affairs	44700 	73700 
+Sociology & Organizational Studies	43700 	73700 
+Administration	40000 	73600 
+Literature	40200 	73600 
+Public Relations (PR)	40100 	73600 
+Landscape Architecture	45200 	73500 
+Professional & Technical Writing	42100 	73500 
+Technology Management	49500 	73400 
+Drama	42600 	73300 
+Environmental Management	46100 	73300 
+International Affairs	44900 	73300 
+Journalism	41000 	73300 
+Zoology	36500 	73300 
+Interior Architecture	42400 	73200 
+International Studies	43500 	73100 
+Multimedia & Web Design	43800 	73100 
+Architectural Technology	44800 	73000 
+Bachelor of Science in Nursing	56700 	73000 
+Public Relations & Communication	40600 	73000 
+German Language & Literature	44100 	72900 
+Natural Sciences	43300 	72900 
+Speech Communication	42100 	72800 
+Geography	43600 	72700 
+Communication Studies & Journalism	40500 	72400 
+History & Political Science	44100 	72300 
+Urban Planning	46300 	72300 
+Automotive Technology	46300 	72200 
+Law	50700 	72200 
+Film Video & Media Studies	40100 	72000 
+Forestry	41400 	72000 
+Cultural Anthropology	42400 	71900 
+Forestry Management	41800 	71900 
+French Studies	44300 	71900 
+Allied Health	40100 	71800 
+Computer Networking Systems	48500 	71700 
+Environmental Biology	40000 	71700 
+Human Resources Management (HRM)	42700 	71600 
+Business Management & Administration	46000 	71500 
+Political Science & Philosophy	42000 	71500 
+Organizational Leadership & Supervision	46800 	71400 
+Acting	35600 	71300 
+English Language & Literature	40700 	71300 
+Sports Medicine	42000 	71300 
+Interpersonal Communications	40400 	71200 
+Nuclear Medicine Technology	55200 	71200 
+Organizational Communication	41100 	71200 
+Computer Aided Drafting & Design (CADD)	44900 	71000 
+Agricultural Business	47500 	70900 
+Radiologic Science	50500 	70900 
+Apparel Merchandising	42200 	70800 
+Geographic Information Systems (GIS)	43600 	70700 
+Criminal Justice Administration	39700 	70400 
+English & History	41200 	70300 
+English Language	38700 	70300 
+Theatre/Theatre Arts Management	40600 	70300 
+Digital Media	41200 	70100 
+Neuroscience	41900 	70100 
+Leadership	45500 	69900 
+American History (United States)	43000 	69800 
+Speech Pathology & Audiology	38700 	69700 
+Public Administration	41300 	69400 
+Radio/Television & Film Production	41200 	69400 
+Law Enforcement	46700 	69100 
+Broadcast Journalism	38200 	68700 
+Media Studies	44500 	68700 
+Health Sciences	38700 	68600 
+Creative Writing	40200 	68500 
+Human Relations	39700 	68500 
+Hotel & Restaurant Tourism	42000 	68400 
+Human Resources (HR)	41900 	68400 
+Animal Science & Management	39900 	68300 
+Exercise Physiology	38100 	68300 
+Radiologic Technology	48500 	68300 
+Sports Management	40000 	68200 
+Organizational Leadership	44200 	68100 
+Merchandising	46700 	68000 
+Health Care Administration	41100 	67700 
+Visual Communication Design	41600 	67700 
+Corporate Communications	41900 	67600 
+Multimedia	38900 	67600 
+Natural Resource Management	39400 	67600 
+Film Production	42100 	67300 
+Criminology	40000 	67200 
+Hotel & Restaurant Management	41200 	67200 
+Mass Communication	39800 	67200 
+Medical Laboratory Technology	49700 	67200 
+Liberal Arts	39100 	67100 
+Broadcast Communication	36300 	67000 
+Media Communication	40800 	67000 
+Health Care Management	39300 	66900 
+Health Information Management	42100 	66800 
+Diagnostic Medical Imaging	51900 	66700 
+Secondary & Middle School Mathematics Teacher Education	40500 	66600 
+Radiology	46300 	66500 
+Fashion Merchandising	41700 	66400 
+Art & Design	39000 	66200 
+Business & Healthcare Management	42200 	66200 
+Management & Leadership	49600 	66100 
+Advertising & Graphic Design	41800 	66000 
+Earth Science	45600 	65800 
+Humanities	41300 	65600 
+Spanish Language	41100 	65600 
+Organizational Management	43500 	65500 
+Art History	41100 	65400 
+Hospitality & Tourism	38600 	65400 
+Respiratory Care	50600 	65400 
+Psychology	38700 	65300 
+Communication Design	45900 	65200 
+Visual Communications	40300 	64900 
+Educational Studies (ED)	35400 	64800 
+Illustration	40000 	64600 
+Integrated Marketing Communications	42200 	64400 
+Clinical Laboratory Science	49200 	64100 
+Hospitality Management	40600 	64100 
+Psychology & Sociology	38500 	64100 
+Radio & Television	38600 	64100 
+Respiratory Therapy	47400 	64000 
+Media Arts	41700 	63800 
+Music Technology	39700 	63700 
+Professional Studies	42200 	63700 
+Theater	39700 	63500 
+Music Business	38200 	63400 
+Interior Design	39700 	63300 
+Music	38200 	63300 
+Sociology	40700 	63300 
+Anthropology	40500 	63200 
+Small Business Management	40200 	63200 
+Radiography	50100 	63000 
+Secondary Education	39700 	63000 
+Nutrition & Dietetics	45300 	62900 
+Public Health (PH)	39100 	62900 
+Wildlife & Fisheries Science	34700 	62900 
+Medical Technology	50000 	62800 
+Liberal Studies	39500 	62700 
+Technical Theatre	36100 	62600 
+Video Production	40300 	62600 
+Dietetics	45600 	62500 
+Hotel Restaurant and Institutional Management (HRIM)	49700 	62400 
+Fine Arts	38200 	62200 
+Writing	39400 	62200 
+Graphic Design Illustration	38000 	62100 
+Religious Studies	38300 	62100 
+Criminal Justice	37700 	61900 
+Kinesiology	38800 	61900 
+Social Science	41000 	61900 
+Graphic Design	40200 	61700 
+Medical Laboratory Science	48900 	61700 
+Music Industry	41900 	61700 
+Printmaking	32400 	61700 
+Restaurant & Food Service Management	41700 	61700 
+Secondary English Teacher Education	38200 	61700 
+Behavioral Science	37100 	61500 
+Foods & Nutrition	43800 	61500 
+Physical Education Teaching	39600 	61400 
+Wildlife Biology	40000 	61400 
+Graphic Arts	38500 	61300 
+Animal Science	36700 	60800 
+Religion	37800 	60800 
+Education	39500 	60600 
+Drawing & Painting	40000 	60300 
+Exercise & Sports Science	37500 	60300 
+Fashion Marketing & Management	38500 	60100 
+Interdisciplinary Studies (IS)	40000 	60000 
+Health & Physical Education Teaching	35600 	59900 
+Clinical Psychology	38200 	59700 
+Human Ecology	35200 	59700 
+Art	37000 	59600 
+Legal Studies	40600 	59500 
+Banking	46300 	59400 
+English Teacher Education	36500 	59300 
+Health & Exercise Science	37600 	59100 
+Family & Consumer Science	36300 	59000 
+Recreation Management	37600 	59000 
+Speech-Language Pathology	37600 	58900 
+Theatre	36100 	58700 
+Physical Education & Exercise Science	39600 	58400 
+General Studies	38600 	58200 
+Multidisciplinary Studies	39400 	58000 
+Health Promotion	36800 	57900 
+Interior Design & Merchandising	38600 	57800 
+Community Health Education	37600 	57600 
+Supervision & Management	38200 	57200 
+Human Development	37100 	56600 
+Instrumental Music Teacher Education	40200 	56600 
+Music Teacher Education	37000 	56500 
+Photography	38600 	56500 
+Painting	36100 	56400 
+Paralegal Studies	35100 	56400 
+Mortuary Science	42100 	56300 
+Women's Studies	40300 	55600 
+Rehabilitation Services	30200 	55500 
+Recreation Administration	43300 	55300 
+Recreation & Leisure Studies	35800 	55000 
+Community Health	38900 	54900 
+Dance	37900 	54800 
+Exercise Science	36600 	54500 
+Health Services Administration	36700 	54500 
+Human Development & Family Studies	35000 	54200 
+African American & African Studies	41900 	54100 
+Athletic Training	36800 	54100 
+Music Therapy	36200 	53700 
+Theology	37400 	53300 
+Sculpture	35500 	53200 
+Parks & Recreation Management	38400 	53000 
+Horticulture	39100 	52400 
+Nonprofit Management	35700 	52400 
+Pastoral Ministry	34500 	52300 
+Vocal Performance	38500 	52300 
+Gerontology	36700 	51900 
+Communication Sciences & Disorders	38600 	51800 
+Special Education	35900 	51800 
+Youth Ministry	33800 	51300 
+Therapeutic Recreation	35200 	50700 
+Bible Studies & Theology	33500 	50500 
+Counseling Psychology	36200 	50100 
+Home Economics	38800 	49600 
+Elementary Education	36000 	49300 
+Christian Education	33500 	48500 
+Christian Ministry	33400 	48400 
+Counseling	36700 	48300 
+Social Work	34000 	48300 
+Biblical Studies	35400 	47800 
+Photojournalism	37100 	47200 
+Human Services	34700 	46500 
+Family Studies	35400 	44500 
+Child Development	32300 	44000 
+Early Childhood & Elementary Education	35000 	43600 
+Veterinary Technology	31800 	43100 
+Child & Family Studies	32000 	42100 
+Early Childhood Education	32100 	40400 
